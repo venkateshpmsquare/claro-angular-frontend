@@ -1,0 +1,21 @@
+.login-container {
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    height: 100vh;
+  }
+  
+  .card {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    background: white;
+  }
+  
+  .input-group-text {
+    background: #f8f9fa;
+    border-right: none;
+  }
+  
+  .form-control {
+    border-left: none;
+  }
+  
